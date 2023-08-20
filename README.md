@@ -25,7 +25,10 @@ streamlit run StreamLit.py
 "# MapPres" 
 
 Германский А.Д - Tinkoff
+
 Баранов В. П. - Tinkoff
+
 Галимов Д.В. - Yandex
+
 Сиразов Д.Н - Sber
 
