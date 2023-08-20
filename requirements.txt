@@ -1,0 +1,15 @@
+streamlit==1.17.0
+matplotlib==3.6.3
+seaborn==0.11.1
+numpy==1.22.0
+plotly
+streamlit-folium 
+pandas
+streamlit
+plotly
+numpy
+openpyxl
+folium
+geopy
+
+
