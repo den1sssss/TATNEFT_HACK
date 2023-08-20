@@ -6,8 +6,8 @@ You can take a look of online demo [here](https://0x0000dead-technohack-gas-stre
 ### Installation & Run
 Clone the repo and change to the project root directory:
 ```
-git clone https://github.com/0x0000dead/technohack-gas.git
-cd technohack-gas
+git clone [https://github.com/0x0000dead/technohack-gas.git](https://github.com/den1sssss/TATNEFT_HACK.git)
+cd TATNEFT_HACK
 ```
 
 Install requirements:
